@@ -1,0 +1,6 @@
+[
+  {"nombre":"Comunicación I","semestre":1,"estado":"aprobada","creditos":6},
+  {"nombre":"Historia de los Medios","semestre":1,"estado":"aprobada","creditos":5},
+  {"nombre":"Comunicación II","semestre":2,"estado":"cursando","creditos":6},
+  {"nombre":"Fotografía Básica","semestre":2,"estado":"pendiente","creditos":4}
+]
